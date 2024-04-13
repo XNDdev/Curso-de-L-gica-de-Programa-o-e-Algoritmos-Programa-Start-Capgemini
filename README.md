@@ -2,7 +2,7 @@
 Curso Concluído
 
 <justify>
-Curso completo de Lógica de programação e algoritmos do programa Start da capgemini.
+Curso completo de Lógica de programação e algoritmos do programa Start Capgemini.
 </justify>
 
 Dúvidas;
